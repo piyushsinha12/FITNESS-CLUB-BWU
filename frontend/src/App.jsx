@@ -10,6 +10,7 @@ import PrivateRoute from "./components/PrivateRoute";
 import { AuthProvider } from "./context/AuthContext";
 import Home from "./pages/Home";
 import Profile from "./pages/Profile";
+// This a ROute Path for Frontend
 
 const App = () => (
   <AuthProvider>
